@@ -5,7 +5,7 @@
 Here are some ideas to get you started:-->
 - 😄 I'm FEZEU YOUMBI Emmanuel , a fourth year computer Engineering student. Currently living in FRANCE.
 - 🔭 I’m currently working on improving my skills in IT fields. Particularly software engineering , cybersecurity...
-- 🌱 I’m currently studying at ENSIMAG Grenoble , informations Systems Engineering
+- 🌱 I’m studying at ENSIMAG Grenoble , informations Systems Engineering
 - 👯 I’m looking to collaborate on any project related to software engineering , cybersecurity
 
 
